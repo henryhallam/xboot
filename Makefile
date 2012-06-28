@@ -697,7 +697,7 @@ endif
 #COPY = cp
 
 # Define programs and commands.
-SHELL = sh
+SHELL = bash
 CC = avr-gcc
 CXX = avr-g++
 OBJCOPY = avr-objcopy
